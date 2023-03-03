@@ -1,0 +1,20 @@
+/home/alf/rust/ms-rs/catalog/target/debug/deps/librustversion-61e4109cacf2d9af.so: /home/alf/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/lib.rs /home/alf/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/attr.rs /home/alf/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/bound.rs /home/alf/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/constfn.rs /home/alf/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/date.rs /home/alf/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/error.rs /home/alf/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/expand.rs /home/alf/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/expr.rs /home/alf/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/iter.rs /home/alf/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/release.rs /home/alf/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/time.rs /home/alf/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/token.rs /home/alf/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/version.rs /home/alf/rust/ms-rs/catalog/target/debug/build/rustversion-3cdc3e676b060266/out/version.expr
+
+/home/alf/rust/ms-rs/catalog/target/debug/deps/rustversion-61e4109cacf2d9af.d: /home/alf/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/lib.rs /home/alf/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/attr.rs /home/alf/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/bound.rs /home/alf/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/constfn.rs /home/alf/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/date.rs /home/alf/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/error.rs /home/alf/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/expand.rs /home/alf/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/expr.rs /home/alf/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/iter.rs /home/alf/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/release.rs /home/alf/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/time.rs /home/alf/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/token.rs /home/alf/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/version.rs /home/alf/rust/ms-rs/catalog/target/debug/build/rustversion-3cdc3e676b060266/out/version.expr
+
+/home/alf/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/lib.rs:
+/home/alf/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/attr.rs:
+/home/alf/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/bound.rs:
+/home/alf/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/constfn.rs:
+/home/alf/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/date.rs:
+/home/alf/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/error.rs:
+/home/alf/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/expand.rs:
+/home/alf/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/expr.rs:
+/home/alf/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/iter.rs:
+/home/alf/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/release.rs:
+/home/alf/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/time.rs:
+/home/alf/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/token.rs:
+/home/alf/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.11/src/version.rs:
+/home/alf/rust/ms-rs/catalog/target/debug/build/rustversion-3cdc3e676b060266/out/version.expr:
+
+# env-dep:OUT_DIR=/home/alf/rust/ms-rs/catalog/target/debug/build/rustversion-3cdc3e676b060266/out
